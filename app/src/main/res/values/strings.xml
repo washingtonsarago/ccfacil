@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CCFácil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Ajustes</string>
+    <string name="menu_entrar">Entrar</string>
+    <string name="menu_cadastro">Cadastro</string>
+    <string name="menu_usuarios">Usuários</string>
+    <string name="menu_alterarsenha">Alterar Senha</string>
+    <string name="menu_extratodeuso">Extrato de Uso</string>
+    <string name="menu_cartoesde_credito">Cartões de Crédito</string>
+    <string name="menu_recompra_automatica">Recompra Automática</string>
+    <string name="menu_assinaturas_ativa">Assinatura Ativa</string>
+    <string name="menu_consultas_efetuadas">Consultas Efetuadas</string>
+    <string name="menu_preferencias_de_email">Preferencias de E-mail</string>
+
+
+</resources>

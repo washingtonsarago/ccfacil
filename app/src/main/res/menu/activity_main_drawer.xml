@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+ <group android:checkableBehavior="single">
+     <item
+         android:id="@+id/nav_entrar"
+         android:icon="@drawable/ic_input_black_48dp"
+         android:title="@string/menu_entrar" />
+     <item
+         android:id="@+id/nav_cadastro"
+         android:icon="@drawable/ic_perm_identity_black_48dp"
+         android:title="@string/menu_cadastro" />
+     <item
+         android:id="@+id/nav_usuarios"
+         android:icon="@drawable/ic_conference_48"
+         android:title="@string/menu_usuarios" />
+     <item
+         android:id="@+id/nav_alterar_senha"
+         android:icon="@drawable/ic_key_48"
+         android:title="@string/menu_alterarsenha" />
+     <item
+         android:id="@+id/nav_extratodeuso"
+         android:icon="@drawable/ic_atings_filled_50"
+         android:title="@string/menu_extratodeuso" />
+     <item
+         android:id="@+id/nav_cartoesdecredito"
+         android:icon="@drawable/ic_credit_card_black_48dp"
+         android:title="@string/menu_cartoesde_credito" />
+     <item
+         android:id="@+id/nav_recompraautomatica"
+         android:icon="@drawable/ic_repeat_48"
+         android:title="@string/menu_recompra_automatica" />
+     <item
+         android:id="@+id/nav_assinaturasativas"
+         android:icon="@drawable/ic_menu_filled_50"
+         android:title="@string/menu_assinaturas_ativa" />
+     <item
+         android:id="@+id/nav_econsultasefetuadas"
+         android:icon="@drawable/ic_report_card_filled_50"
+         android:title="@string/menu_consultas_efetuadas" />
+     <item
+         android:id="@+id/nav_preferenciasdeemail"
+         android:icon="@drawable/ic_new_post_52"
+         android:title="@string/menu_preferencias_de_email" />
+    </group>
+</menu>
